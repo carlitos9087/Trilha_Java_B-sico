@@ -1,8 +1,5 @@
 # DIO - Trilha Java Básico
-www.dio.me
 
-#### Autores
-- [Gleyson Sampaio](https://github.com/glysns)
 
 ## Sintaxe - Desafio
 
